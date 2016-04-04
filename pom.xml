@@ -16,5 +16,12 @@
         <!-- Default test category. -->
         <test.category>All</test.category>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpcore</artifactId>
+            <version>4.4.4</version>
+        </dependency>
+    </dependencies>
     <name>sonar vars</name>
 </project>
