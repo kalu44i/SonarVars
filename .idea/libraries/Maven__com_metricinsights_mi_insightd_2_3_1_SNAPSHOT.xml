@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.metricinsights:mi-insightd:2.3.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/metricinsights/mi-insightd/2.3.1-SNAPSHOT/mi-insightd-2.3.1-20160328.171750-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/metricinsights/mi-insightd/2.3.1-SNAPSHOT/mi-insightd-2.3.1-20160328.171750-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/metricinsights/mi-insightd/2.3.1-SNAPSHOT/mi-insightd-2.3.1-20160328.171750-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
