@@ -10,7 +10,7 @@
         <version>2.3.1-SNAPSHOT</version>
     </parent>
     <properties>
-        <maintainer>nick/maintainer>
+        <maintainer>nick</maintainer>
         <maintainerEmail>nick@metricinsights.com</maintainerEmail>
         <plugin.standalone.name>sonar vars</plugin.standalone.name>
         <!-- Default test category. -->
